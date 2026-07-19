@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"Hello Git";
+	cout<<"Hello git";
+	cout<<"Development branch";
 }
