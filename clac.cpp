@@ -14,6 +14,10 @@ int main()
 			cout<<"Sum = "<<n1+n2; break;
 		case '-':
 			cout<<"Difference = "<<n1-n2; break;
+		case 'x':
+			cout<<"Product:"<<n1*n2; break;
+		case '/':
+			cout<<"Quotient:"<<n1/n2; break;
 		default:
 			cout<<"Invalid choice"; break;
 	}
