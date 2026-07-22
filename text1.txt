@@ -1,0 +1,2 @@
+Hello.
+This is from text1.txt
