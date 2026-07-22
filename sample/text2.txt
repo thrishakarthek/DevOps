@@ -1,2 +1,4 @@
 Hiii
 This is from text2.txt file
+
+This content is edited in git
