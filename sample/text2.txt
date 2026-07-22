@@ -1,4 +1,4 @@
 Hiii
 This is from text2.txt file
 
-This content is edited in git
+This content is edited locally and used git
